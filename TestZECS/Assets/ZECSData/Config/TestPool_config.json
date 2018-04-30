@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "rect": {
+                "serializedVersion": "2",
+                "x": 276.0,
+                "y": 83.0,
+                "width": 100.0,
+                "height": 50.0
+            },
+            "wndID": 0,
+            "title": "entity0"
+        },
+        {
+            "rect": {
+                "serializedVersion": "2",
+                "x": 273.0,
+                "y": 235.0,
+                "width": 100.0,
+                "height": 50.0
+            },
+            "wndID": 1,
+            "title": "entity1"
+        },
+        {
+            "rect": {
+                "serializedVersion": "2",
+                "x": 66.0,
+                "y": 135.0,
+                "width": 100.0,
+                "height": 50.0
+            },
+            "wndID": 2,
+            "title": "InitSytem"
+        },
+        {
+            "rect": {
+                "serializedVersion": "2",
+                "x": 479.0,
+                "y": 142.0,
+                "width": 100.0,
+                "height": 50.0
+            },
+            "wndID": 3,
+            "title": "entity3"
+        }
+    ]
+}

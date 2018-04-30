@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestZECS", "Assembly-CSharp.csproj", "{860D67F6-E6DF-F696-A0B3-738CE443B7F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestZECS", "Assembly-CSharp-Editor.csproj", "{541A8806-5D5D-F5C1-049D-A0AA5A27AFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860D67F6-E6DF-F696-A0B3-738CE443B7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860D67F6-E6DF-F696-A0B3-738CE443B7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860D67F6-E6DF-F696-A0B3-738CE443B7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860D67F6-E6DF-F696-A0B3-738CE443B7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541A8806-5D5D-F5C1-049D-A0AA5A27AFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541A8806-5D5D-F5C1-049D-A0AA5A27AFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541A8806-5D5D-F5C1-049D-A0AA5A27AFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541A8806-5D5D-F5C1-049D-A0AA5A27AFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

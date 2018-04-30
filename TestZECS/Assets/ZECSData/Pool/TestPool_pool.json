@@ -1,0 +1,27 @@
+{
+    "Name": "TestPool",
+    "StartID": 4,
+    "Entities": [
+        {
+            "ID": 0,
+            "Name": "entity0",
+            "subs": [
+                {
+                    "ID": 3,
+                    "Name": "entity3",
+                    "subs": []
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "Name": "entity1",
+            "subs": []
+        },
+        {
+            "ID": 2,
+            "Name": "InitSytem",
+            "subs": []
+        }
+    ]
+}
